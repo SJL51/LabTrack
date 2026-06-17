@@ -130,7 +130,7 @@ def admin_dashboard():
     admin_status = {"online": current_user.is_authenticated, "uptime": format_uptime(uptime)}
 
     return render_template(
-        "admin_dashbroad.html",
+        "admin_dashboard.html",
         files=files,
         users=users,
         clients=clients,
