@@ -1,7 +1,3 @@
-Here is a clean, professional, and scannable `README.md` tailored specifically for your **LabTrack System Core Prototype**. It neatly breaks down how your client-server architecture behaves, how security is configured, and how to get it running.
-
----
-
 # # LabTrack Core Prototype
 
 A centralized, lightweight computer laboratory monitoring and maintenance system prototype. This project leverages an **Electron/HTML front-end UI capability** (designed through templates) interacting with a robust **Python Flask server infrastructure** and background **client tracking agents**.
